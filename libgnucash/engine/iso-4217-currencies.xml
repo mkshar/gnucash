@@ -3081,4 +3081,19 @@
   smallest-fraction="1"
   local-symbol=""
 />
+
+<!-- "XBT" - "Bitcoin"
+	N.B.: Bitcoin is NOT included in ISO-4217!
+-->
+<currency
+  isocode="XBT"
+  fullname="Bitcoin"
+  unitname="bitcoin"
+  partname="satoshi"
+  namespace="ISO4217"
+  exchange-code="777"
+  parts-per-unit="100000000"
+  smallest-fraction="100000000"
+  local-symbol="₿"
+/>
 </currencylist>
